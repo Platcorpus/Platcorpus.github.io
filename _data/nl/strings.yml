@@ -1,0 +1,159 @@
+archive_category: een archief van berichten in deze categorie
+archive_tag: een archief van berichten met dit label
+archive_year: een archief van berichten uit dit jaar
+bibliography:
+  abstract: Samenvatting
+  awarded: Toegekend
+  blog: Blog
+  book_prefix: In
+  code: Code
+  last_author_prefix: en
+  poster: Poster
+  slides: Dia's
+  supp: Aanvulling
+  video: Video
+  website: Website
+blog:
+  navigation_title: blog
+categories:
+  fun: plezier
+  work: werk
+citation:
+  bibtex: "of als een BibTeX-vermelding:"
+  introduction: "Als je dit nuttig vond, citeer dit dan als:"
+contact_note: Je kunt zelfs een kleine opmerking toevoegen over welke van deze de beste manier is om contact met je op te nemen.
+cv:
+  address: Adres
+  area: Gebied
+  awarder: Uitreiker
+  awards: Prijzen
+  basics: Algemene informatie
+  certificates: Certificaten
+  city: Stad
+  countryCode: Landcode
+  courses: Cursussen
+  date: Datum
+  education: Opleiding
+  email: E-mail
+  endDate: Einddatum
+  fluency: Vloeiendheid
+  highlights: Hoogtepunten
+  image: Afbeelding
+  institution: Instelling
+  interests: Interesses
+  issuer: Uitgever
+  keywords: Trefwoorden
+  label: Label
+  language: Taal
+  languages: Talen
+  level: Niveau
+  location: Locatie
+  name: Naam
+  network: Netwerk
+  organization: Organisatie
+  phone: Telefoon
+  position: Positie
+  postalCode: Postcode
+  present: Heden
+  profiles: Profielen
+  projects: Projecten
+  publications: Publicaties
+  publisher: Uitgever
+  reference: Referentie
+  references: Referenties
+  region: Regio
+  releaseDate: Releasedatum
+  score: Score
+  skills: Vaardigheden
+  startDate: Startdatum
+  studyType: Opleidingssoort
+  summary: Samenvatting
+  table_of_contents: Inhoudsopgave
+  title: Titel
+  url: Url
+  username: Gebruikersnaam
+  volunteer: Vrijwilliger
+  work: Werk
+footer:
+  copyright: Auteursrecht
+  last_updated: "Laatst bijgewerkt:"
+footer_text: > # het ">" symbool betekent nieuwe regels negeren totdat "titels:"
+  Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> met <a href="https://github.com/george-gca/multi-language-al-folio">multi-language-al-folio</a> thema.
+  Gehost door <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
+  Foto's van <a href="https://unsplash.com" target="_blank">Unsplash</a>.
+latest_posts: laatste berichten
+months:
+  long:
+    january: Januari
+    february: Februari
+    march: Maart
+    april: April
+    may: Mei
+    june: Juni
+    july: Juli
+    august: Augustus
+    september: September
+    october: Oktober
+    november: November
+    december: December
+  short:
+    january: Jan
+    february: Feb
+    march: Mrt
+    april: Apr
+    may: Mei
+    june: Jun
+    july: Jul
+    august: Aug
+    september: Sep
+    october: Okt
+    november: Nov
+    december: Dec
+news: nieuws
+newsletter:
+  back: Terug
+  error: "Oeps! Er is iets misgegaan, probeer het opnieuw."
+  subscribe: abonneren
+  subscribed: "Je hebt je succesvol geabonneerd op de nieuwsbrief."
+  subscribe_to_receive: "Abonneer om op de hoogte te worden gehouden van toekomstige artikelen:"
+  too_many_signups: "Te veel aanmeldingen, probeer het over een tijdje opnieuw."
+  wait: "Even wachten..."
+no_news: Nog geen nieuws...
+no_posts: "Nog geen berichten..."
+pagination:
+  page: pagina
+post:
+  created_in: Gemaakt in
+  created_by: door
+  last_updated: laatst bijgewerkt in
+references: Referenties
+related_posts:
+  description: "Hier zijn enkele andere artikelen die je misschien graag wilt lezen:"
+  title: Genieten van dit artikel?
+search:
+  dark_theme:
+    description: Verander het thema van de site naar Donker
+    title: Verander het thema naar donker
+  dropdown: Dropdown
+  email: Stuur een e-mail
+  footer:
+    close: om te sluiten
+    navigate: om te navigeren
+    parent: ga naar bovenliggende
+    select: om te selecteren
+  languages: Talen
+  light_theme:
+    description: Verander het thema van de site naar Licht
+    title: Verander het thema naar licht
+  navigation: Navigatiemenu
+  news: Nieuws
+  placeholder: Typ om te beginnen met zoeken
+  posts: Berichten
+  projects: Projecten
+  socials: Sociale netwerken
+  system_theme:
+    description: Verander het thema van de site naar Systeemstandaard
+    title: Gebruik systeemstandaard thema
+  theme: Thema
+selected_publications: geselecteerde publicaties
+site_description: Een eenvoudig, witruimte-thema voor academici. Gebaseerd op het ontwerp van [*folio](https://github.com/bogoli/-folio)
