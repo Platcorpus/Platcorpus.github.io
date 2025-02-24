@@ -6,7 +6,7 @@ title: Platcorpus # the website title (if blank, full name will be used instead)
 first_name: You
 middle_name: R.
 last_name: Name
-keywords: jekyll, jekyll-theme, academic-website, portfolio-website # add your own keywords or leave empty
+keywords: Platcorpus, Plat corpus, dialect corpus, Limburgs corpus, Limburgish corpus, corpus Limburgeois, Limburg, Limbourg, Liège, Limburgs, Plat, dialect, Belgium, Netherlands, Germany
 icon: ⚛️ # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
 url: https://platcorpus.github.io
@@ -339,8 +339,8 @@ external_links:
 # Jekyll Polyglot
 # -----------------------------------------------------------------------------
 
-languages: ["en-us", "pt-br", "fr-ca"]
-default_lang: "en-us"
+languages: ["nl", "fr", "en", "li"]
+default_lang: "nl"
 exclude_from_localization: ["assets"]
 lang_from_path: true
 country_flag: false # set true for allowing flag symbol in language toggle
